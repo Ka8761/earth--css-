@@ -54,7 +54,7 @@ Spherical earth
     
     #ring-2 {
         border-top-color: transparent;
-        ghjbbnmghjjjborder-bottom-width: 20px;
+       border-bottom-width: 20px;
     }
 </style>
 
